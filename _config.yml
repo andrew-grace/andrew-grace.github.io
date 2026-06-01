@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : #
 title_separator          : "-"
 name                     : &name "Andrew Grace"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,7 +27,7 @@ author:
   name             : "Andrew P. Grace"
   pronouns         : # example: "he/him"  
   bio              : "Assistant Professor of Applied Mathematics"
-  location         : "Boulder, CO, U.S.A."
+  location         : "Boulder, Colorado, U.S.A."
   employer         : "University of Colorado, Boulder"
   uri              : # URL
   email            : "andrew.grace@colorado.edu" 
@@ -274,14 +274,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
   # _talks
   - scope:
       path: ""
