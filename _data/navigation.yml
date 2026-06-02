@@ -9,13 +9,13 @@
 
 main:
   - title: "Research Themes"
-    url: /publications/
+    url: /research/
 
   - title: "Upcoming"
-    url: /Upcoming/    
+    url: /upcoming/    
 
   - title: "Students"
-    url: /teaching/    
+    url: /students/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
