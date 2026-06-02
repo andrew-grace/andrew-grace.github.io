@@ -23,7 +23,7 @@ repository               : "andrew-grace/andrew-grace.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image.jpg"
   name             : "Andrew P. Grace"
   pronouns         : "he/him"  
   bio              : "Assistant Professor of Applied Mathematics"
