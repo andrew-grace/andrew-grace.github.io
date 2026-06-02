@@ -14,8 +14,8 @@ main:
   - title: "Upcoming"
     url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Students"
+    url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
