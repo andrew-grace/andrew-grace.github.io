@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+paperurl: andrew-grace.github.io/files/Academic_CV_template.pdf
 ---
 
 My name is Dr. Andrew P. Grace, and I am an Assistant Professor of Applied Mathematics at the University of Colorado, Boulder. My research interests fall within the computational and theoretical fluid dynamics communities. I am interested in using and developing high-resolution numerical modeling tools and theory to analyze several classes of fluid flows; notably buoyancy driven flows and turbulent flows (sometimes both simultaneously). 
