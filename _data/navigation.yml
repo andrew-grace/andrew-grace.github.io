@@ -14,11 +14,11 @@ main:
   - title: "Research Themes"
     url: /research/
 
-  - title: "Upcoming"
-    url: /upcoming/    
+ # - title: "Upcoming"
+ #   url: /upcoming/    
 
-  - title: "Students"
-    url: /students/    
+ # - title: "Students"
+ #   url: /students/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
