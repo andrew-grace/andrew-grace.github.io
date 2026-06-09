@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-paperurl: https://andrew-grace.github.io/files/Academic_CV_template.pdf
 ---
 
 My name is Dr. Andrew P. Grace, and I am an Assistant Professor of Applied Mathematics at the University of Colorado, Boulder. My research interests fall within the computational and theoretical fluid dynamics communities. I am interested in using and developing high-resolution numerical modeling tools and theory to analyze several classes of fluid flows; notably buoyancy driven flows and turbulent flows (sometimes both simultaneously). 
@@ -15,7 +14,7 @@ I received my PhD from the University of Waterloo in 2022 (my PhD thesis can be 
 Shortly after the completion of my PhD, I began a postdoctoral position at the University of Notre Dame, funded jointly by the Notre Dame Evironmental Change Initiative, the U.S. Army, and the Natural Science and Engineering Research Council of Canada.
 During my postdoctoral research at the University of Notre Dame, I used high resolution simulations of turbulent flows to analyze the the coupled influence of Lagrangian particle inertia and gravity to gain insight into the dominant settling mechanisms of large dust grains in the atmospheric surface layer. 
 
-You can find my CV here
+You can find my CV [here](https://andrew-grace.github.io/files/Academic_CV_Template.pdf)
 
 Please feel free to reach out if you're interested in collaborating or for anything else.
 
